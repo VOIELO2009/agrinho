@@ -1,0 +1,4 @@
+let jadineiro;
+let plantas = [];
+let temperatura = 10
+let totalarvores = 0
